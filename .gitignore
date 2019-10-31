@@ -1,0 +1,5 @@
+# Ignore these Folders:
+tmp/
+
+# Ignore these Files:
+.DS_Store
